@@ -7,6 +7,12 @@
 ██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══██║██╔══██║██║██║
 ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║██║  ██║██║███████╗
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
+██╗  ██╗██╗  ██╗ █████╗ ███╗   ██╗
+██║ ██╔╝██║  ██║██╔══██╗████╗  ██║
+█████╔╝ ███████║███████║██╔██╗ ██║
+██╔═██╗ ██╔══██║██╔══██║██║╚██╗██║
+██║  ██╗██║  ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Forensics+Investigator+%F0%9F%94%8D;GRC+%26+Threat+Intelligence+Analyst+%F0%9F%8C%90;CTF+Player+%E2%9A%94%EF%B8%8F;DevSecOps+%7C+Blue+Team+%7C+Malware+Analysis;Breaking+Things+Ethically+Since+2022+%F0%9F%94%93" alt="Typing SVG" />
